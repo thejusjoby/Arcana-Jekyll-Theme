@@ -28,7 +28,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #D91E18;
+		color: $color-fg;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
