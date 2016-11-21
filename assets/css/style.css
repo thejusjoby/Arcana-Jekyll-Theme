@@ -66,7 +66,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: inherit;
 		font-weight: 600;
-		line-height: -1.75em;
+		line-height: 1.75em;
 		margin-bottom: 1em;
 	}
 
@@ -120,7 +120,7 @@
 
 	header p {
 		color: #999999;
-		font-size: 3em;
+		font-size: 1.25em;
 		position: relative;
 		margin-top: -1.25em;
 		margin-bottom: 2.25em;
@@ -142,7 +142,7 @@
 			margin: 0;
 			top: -1em;
 			font-size: 1.5em;
-			letter-spacing: -0.05em;
+			letter-spacing: -0.025em;
 		}
 
 	footer {
