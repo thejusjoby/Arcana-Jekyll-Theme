@@ -32,6 +32,7 @@
 						<ul>
 							{% assign current = page.url | downcase | split: '/' %}
 							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
+							<li {% if current[1] == 'blog' %}class="current"{% endif %}><a href="{{ site.baseurl }}/blog">About US</a></li>
 							<li>
 								<a href="">Category</a>
 								<ul>
@@ -51,11 +52,19 @@
 									<li><a href="#">............</a></li>
 								</ul>
 							</li>
-							<li {% if current[1] == 'blog' %}class="current"{% endif %}><a href="{{ site.baseurl }}/blog">Blog</a></li>
-							<li {% if current[1] == 'left-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/left-sidebar.html">blah blah</a></li>
-							<li {% if current[1] == 'right-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/right-sidebar.html">entho kopp</a></li>
-							<li {% if current[1] == 'two-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/two-sidebar.html">vere enthelm</a></li>
-							<li {% if current[1] == 'no-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/no-sidebar.html">chumma irunotte</a></li>
+							
+							<li {% if current[1] == 'left-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/left-sidebar.html">Products</a>
+							<ul>
+											<li><a href="#">T-shirt</a></li>
+											<li><a href="#">Wrist Band</a></li>
+											<li><a href="#">Mugs</a></li>
+											<li><a href="#">Kurta</a></li>
+											<li><a href="#">..........</a></li>
+										</ul>
+							</li>
+							<li {% if current[1] == 'right-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/right-sidebar.html">Clients</a></li>
+							<li {% if current[1] == 'two-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/two-sidebar.html">Design Factory</a></li>
+							<li {% if current[1] == 'no-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/no-sidebar.html">Careers</a></li>
 						</ul>
 					</nav>
 
