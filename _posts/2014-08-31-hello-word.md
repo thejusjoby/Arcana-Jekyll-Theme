@@ -1,6 +1,6 @@
 ---
 title: Ullamco Laboris minim veniam
-featured: /assets/images/Cranberrykutty.png
+featured: /assets/images/Cranberrykutti.png
 layout: post
 ---
 
