@@ -1,4 +1,5 @@
 ---
+title:
 featured: /assets/images/Cranberrykutti.png
 layout: post
 ---
