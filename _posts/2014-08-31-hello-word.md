@@ -4,11 +4,4 @@ featured: /assets/images/pic01.jpg
 layout: post
 ---
 
-<ul class="links">
-	<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
-	<li><a href="#">Ornare in hendrerit in lectus</a></li>
-	<li><a href="#">Semper mod quis eget mi dolore</a></li>
-	<li><a href="#">Consequat etiam lorem phasellus</a></li>
-	<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
-	<li><a href="#">Semper mod quisturpis nisi</a></li>
-</ul>
+<p> Cranberry customs was founded in 2014 Jan 1st by two entrepreneurs passionate about designing fabrics what had begun as t shirt printing has now grown and spread out to printing sweatshirts, hoodies, custom mugs, wrist bands and all other accessories which are required for any grant event /fest. The success of cranberry customs is in the faith entrusted by our valued customers and the quality and class of product we provide. </p>
