@@ -1,5 +1,5 @@
 ---
-title:About Us
+title: About Us
 featured: /assets/images/rsz_1cranberry_logo_dotted.png
 layout: post
 ---
